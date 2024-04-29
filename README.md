@@ -1,4 +1,4 @@
-CURSO UNLP 2024 Problemas Inversos 4
+CURSO UNLP 2024 :  Problemas Geofisicos Inversos 
 
 
  Como instalar Julia : 
