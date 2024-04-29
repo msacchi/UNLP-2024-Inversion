@@ -1,4 +1,5 @@
-CURSO UNLP 2024
+CURSO UNLP 2024 Problemas Inversos 4
+
 
  Como instalar Julia : 
  
@@ -7,4 +8,3 @@ CURSO UNLP 2024
 - Windows: http://carina.fcaglp.unlp.edu.ar/senales/julia/instalar-Julia_Windows.html
 
 
--------------------------------
