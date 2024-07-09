@@ -8,7 +8,7 @@ a second order solver
 
  - `include("lib.jl")` 
 
- - `?rtm`
+ - use >`?rtm` to get help
  
- - `demo_1.jl` and `demo_2.jl`
+ - Check `demo_1.jl` and `demo_2.jl` to see which libraries and packages I import 
 
