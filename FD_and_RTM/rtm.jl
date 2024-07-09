@@ -44,7 +44,7 @@ function rtm(nx, nz, nt, dx, dz, dt, f0, c, c0, npad, ix_s, iz_s, ix_r, iz_r)
     WR =  afd_2D_b(nx, nz, nt, dx, dz, dt, c, npad, R)    # Receiver wavefeild WR(x,z,t)
 
 
-   I = I + dropdims(sum(WS.*WR,dims=3),dims=3):q
+   I = I + dropdims(sum(WS.*WR,dims=3),dims=3)
 
 
  end 
